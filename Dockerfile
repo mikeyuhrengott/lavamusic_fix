@@ -10,4 +10,4 @@ RUN npx prisma generate
 
 COPY . .
 
-CMD [ "npm", "start2" ]
+CMD [ "npm", "start" ]
